@@ -1,0 +1,223 @@
+
+export const navcontents = [
+    {
+        name:'',
+            subcontent:[ 
+                        {
+                         name:"Facility",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        
+                   ]
+
+    },
+    {
+        name:'dropdown 2',
+            subcontent:[ 
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        
+                   ]
+
+    },
+    {
+        name:'',
+            subcontent:[ 
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        
+                   ]
+
+    },
+    {
+        name:'',
+            subcontent:[ 
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        
+                   ]
+
+    },
+    {
+        name:'',
+            subcontent:[ 
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        
+                   ]
+
+    },
+    {
+        name:'',
+            subcontent:[ 
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        
+                   ]
+
+    },
+    {
+        name:'',
+            subcontent:[ 
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        {
+                         name:"",
+                         link:'' 
+                         },
+                        
+                   ]
+
+    },
+    
+];
+
+ 

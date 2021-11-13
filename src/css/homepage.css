@@ -1,0 +1,273 @@
+
+
+
+
+
+.home-head{
+  /* padding-left: 30px; */
+  margin-bottom: 3% ;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 47px;
+  color: #1134A6;
+ }
+ 
+ .home-banner{
+    /* margin-top: 1px; */
+    /* height: 403px; */
+    width: 100%;
+    background-image:linear-gradient(to bottom,#0393b6,#14035a) ;
+}
+
+
+        /* Rectangle 87 */
+        .hb {
+             height: 553px;
+             display: flex;
+             justify-content: space-between;
+        
+        }
+        .hb-img{
+          width:45%;
+        }
+        .hb-img  img{
+            /* Zero-To-One-Cover 1 */
+            width: 100%;
+            border-radius: 12px;
+        }
+        .hb-right{
+           
+           width:45%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            color: white;
+          /* background-color: gray; */
+        }
+
+        .hb-h1 {
+            /* Speak about the hospital and founder */
+          
+            
+            
+            font-family: 'Roboto', sans-serif;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 50px;
+            /* line-height: 59px; */
+            
+        }
+
+        .hb-h2 {
+            /* Uniqueness of the hospital and what are the facilities */
+            
+            
+            
+            font-family: 'Roboto', sans-serif;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 25px;
+            /* line-height: 29px; */
+           
+        }
+        .banner-btn{
+          width: 70%;
+          display: flex;
+          justify-content: space-around;
+        }
+
+        .hb-btn {
+            /* Rectangle 55 */
+           
+            width: 150px;
+            
+            color: white;
+            background: #1134A6;
+            padding:10px 0px;
+            box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.25);
+            border: none;
+            border-radius: 8px;
+        }
+
+
+/* procedure................................................... */
+
+
+
+/* appointment banner/////////////............................................... */
+.appointment-banner{
+  /* width: 90%; */
+  margin:  5% 0px;
+  height:157px;
+  background-color:  #FFFCF4;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.appointment-banner .appointmentlogo{
+  width: 120px;
+  height: 120px;
+  background-color: white;
+  border-radius: 60px;
+  box-shadow: 0px 4px 15px rgba(145, 145, 145, 0.25);
+}
+.appbanner-content {
+  width: 50%;
+}
+.appbanner-content h4{
+  font-weight: bold;
+font-size: 25px;
+line-height: 41px;
+color: #1134A6;
+}
+.appointment-banner button{
+  width: 200px;
+height: 55px;
+border-radius: 22.5px;
+background-color: #1134A6;
+
+font-weight: 500;
+font-size: 20px;
+
+}
+
+@media screen and (max-width:1400px){
+  .appointment-banner{
+    height:140px;
+    /* justify-content: space-between; */
+  }
+  .appointment-banner .appointmentlogo{
+    width: 100px;
+  height: 100px;
+  }
+  .appbanner-content {
+    width: 60%;
+  }
+  .appbanner-content h4{
+    font-size: 23px;
+  }
+  .appointment-banner button{
+    width: 150px;
+    height: 50px;
+    font-size: 17px;
+  }
+}
+@media screen and (max-width:810px){
+  .appointment-banner{
+    height:140px;
+    /* justify-content: space-between; */
+  }
+  .appointment-banner .appointmentlogo{
+    width: 70px;
+  height: 70px;
+  }
+  .appbanner-content {
+    width: 60%;
+  }
+  .appbanner-content h4{
+    font-size: 20px;
+  }
+  .appointment-banner button{
+    width: 130px;
+    height: 45px;
+    font-size: 15px;
+  }
+}
+
+
+/* top facility------------------........................................................................----------- */
+.home-facility{
+  
+    display: flex;
+    flex-direction: column;
+    /* margin-bottom:10%; */
+    
+    
+    height: 450px;
+    
+}
+
+.home-facility .container{
+    width: 100%;
+   height: 100%;
+   
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-around;
+    
+   
+
+}
+.home-facility .part{
+    width: 30%;
+    
+    
+    /* background-color: blue; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    /* box-shadow: 0px 4px 15px rgba(145, 145, 145, 0.25); */
+    background-color: white;
+    
+}
+.home-facility .part img{
+       width: 90%;
+       height: auto;
+       padding-top: 5%;
+}
+.home-facility .part h1{
+  font-weight: 600;
+  padding-left: 0px;
+  font-size: 25px;
+  
+}
+.home-facility .part p{
+  width: 90%;
+  padding-bottom: 5%;
+}
+
+
+/* doctor  slider==============================------------------------------------------------------ */
+
+/* Slideshow container */
+.procedure-slider{
+ /* width:80vw; */
+ margin-top: 4rem;
+
+}
+.procedure-slider .procedure-item{
+  width: 325px;
+  height: 108px;
+  padding: 10px;
+  background: #FFFACE;
+  box-shadow: 0px 1px 6px rgba(143, 143, 143, 0.25);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+}
+.procedure-item img{
+  /* width: 30px; */
+  height: 70px;
+  
+}
+.procedure-item .p-right{
+height: 100%;
+width: 70%;
+
+}
+.procedure-item span{
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 5px;
+}
+.procedure-item p{
+  width: 200px;
+  font-size: 13px;
+line-height: 15px;
+margin-top: 7px;
+}
+/*doctorslider==============================------------------------------------------------------ */
+
+/* other facility slider////////////////////////////......,,,,,,,,,,,,,,,,,, */
